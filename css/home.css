@@ -90,6 +90,7 @@
 
 #u91_clip
 {
+	background-image: url('../images/app1-layer%2018c.png');
 	overflow: hidden;
 	width: 380px;
 	height: 94px;
@@ -109,18 +110,11 @@
 	left: 1px;
 }
 
-#u113_clip
-{
-	overflow: hidden;
-	width: 380px;
-	height: 29px;
-}
+
 
 #u113_img
 {
-	margin-left: -23px;
-	margin-right: -23px;
-	margin-bottom: -15px;
+	
 }
 
 #u511
