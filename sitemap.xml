@@ -145,12 +145,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://awemusdFINAL.com/images/centre%20point%20bar%20-%20exterior-u778.png</loc>
-    <lastmod>2013-11-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://awemusdFINAL.com/images/-x-%20socialis-colorc.png</loc>
     <lastmod>2013-11-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -170,6 +164,12 @@
   </url>
   <url>
     <loc>http://awemusdFINAL.com/images/-x-%20socialis-colorc4.png</loc>
+    <lastmod>2013-11-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://awemusdFINAL.com/images/centre%20point%20bar%20-%20exterior-u778.png</loc>
     <lastmod>2013-11-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

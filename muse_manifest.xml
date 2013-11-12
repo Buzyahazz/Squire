@@ -1,9 +1,9 @@
 <manifest alg="2" build="751" opt="true" iceEnabled="true">
   <folder name="css">
     <file name="site_global.css" crc="114823713"/>
-    <file name="untitled-3.css" crc="3879806086" ref="untitled-3"/>
-    <file name="home.css" crc="421067081" ref="home"/>
-    <file name="index.css" crc="526315378" ref="index"/>
+    <file name="untitled-3.css" crc="4098232827" ref="untitled-3"/>
+    <file name="home.css" crc="253411645" ref="home"/>
+    <file name="index.css" crc="368070318" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="centre-point-bar---exterior.jpg" crc="3795208289" mt="1384125197000"/>
@@ -17,7 +17,7 @@
   </folder>
   <folder name="images">
     <file name="app1-layer 18c.jpg" crc="4172778243" ref="home:untitled-3"/>
-    <file name="app1-rectangle 1c.png" crc="192977242" ref="home:untitled-3"/>
+    <file name="app1-rectangle 1c.png" crc="4081070372" ref="home:untitled-3"/>
     <file name="squire.png" crc="3783298967" ref="home:untitled-3"/>
     <file name="untitled-5-searchc.png" crc="460811925" ref="home:index"/>
     <file name="untitled-5-pinc.png" crc="3968851533" ref="home:index"/>
@@ -39,13 +39,13 @@
     <file name="corbis-42-16594410-u647.png" crc="4009895946" ref="home"/>
     <file name="bghead.png" crc="125763936" ref="index"/>
     <file name="squirefull.png" crc="527335303" ref="index"/>
-    <file name="centre point bar - exterior-u778.png" crc="3792053102" ref="untitled-3"/>
     <file name="-x- socialis-colorc.png" crc="3826978793" ref="untitled-3"/>
     <file name="-x- socialis-colorc2.png" crc="4093075429" ref="untitled-3"/>
     <file name="-x- socialis-colorc3.png" crc="3764292332" ref="untitled-3"/>
     <file name="-x- socialis-colorc4.png" crc="4175756413" ref="untitled-3"/>
+    <file name="centre point bar - exterior-u778.png" crc="3792053102" ref="untitled-3"/>
   </folder>
-  <file name="home.html" crc="4167385287" mt="1384219259348"/>
-  <file name="index.html" crc="524140090" mt="1384219255879"/>
-  <file name="untitled-3.html" crc="4029021638" mt="1384219257755"/>
+  <file name="home.html" crc="3976739804" mt="1384225063113"/>
+  <file name="index.html" crc="524140090" mt="1384225098600"/>
+  <file name="untitled-3.html" crc="4211311864" mt="1384224854753"/>
 </manifest>
